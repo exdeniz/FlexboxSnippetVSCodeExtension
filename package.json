@@ -2,8 +2,10 @@
     "name": "css-flexbox-snippet",
     "displayName": "CSS Flexbox Logic Snippet for VS Code",
     "description": "CSS Flexbox Logic Snippet for VS Code",
-    "version": "0.1",
+    "version": "0.0.1",
     "type": "module",
+    "publisher": "IgorPnev",
+    "icon": "media/icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -18,7 +20,6 @@
             }
         ]
     },
-    "main": "index.js",
     "repository": "git@github.com:exdeniz/FlexboxSnippetVSCodeExtension.git",
     "author": "Igor Pnev <tkospb@gmail.com>",
     "license": "MIT",
