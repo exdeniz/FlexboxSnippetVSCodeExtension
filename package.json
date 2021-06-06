@@ -2,10 +2,10 @@
     "name": "css-flexbox-snippet",
     "displayName": "CSS Flexbox Logic Snippet for VS Code",
     "description": "CSS Flexbox Logic Snippet for VS Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "type": "module",
     "publisher": "IgorPnev",
-    "icon": "media/i%con.png",
+    "icon": "media/icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
