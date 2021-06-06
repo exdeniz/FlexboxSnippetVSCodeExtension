@@ -2,7 +2,7 @@
     "name": "css-flexbox-snippet",
     "displayName": "CSS Flexbox Logic Snippet for VS Code",
     "description": "CSS Flexbox Logic Snippet for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "type": "module",
     "publisher": "IgorPnev",
     "icon": "media/icon.png",
@@ -15,12 +15,12 @@
     "contributes": {
         "snippets": [
             {
-                "language": "css",
+                "language": "css, postcss, scss, sass",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
     },
-    "repository": "git@github.com:exdeniz/FlexboxSnippetVSCodeExtension.git",
+    "repository": "https://github.com/exdeniz/FlexboxSnippetVSCodeExtension",
     "author": "Igor Pnev <tkospb@gmail.com>",
     "license": "MIT",
     "devDependencies": {
